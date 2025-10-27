@@ -1,0 +1,48 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Spanish"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "9504e4cb-1918-efba-f558-a8fdc391b884",
+  "instructors": {
+    "content": [
+      "d9940baf-316a-2166-6964-0f257e9d9853"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "704aaca8-9c57-9c96-3fef-0f40602b23eb",
+    "website": "21g-716-introduction-to-contemporary-hispanic-literature-spring-2005"
+  },
+  "course_title": "Introduction to Contemporary Hispanic Literature",
+  "course_description": "This course studies important twentieth century texts from Spain and Latin America. The readings include short stories, theatre, the novel and poetry. This subject is conducted in Spanish and all reading and writing for the course is also done in Spanish.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21G.716",
+  "course_image_thumbnail": {
+    "content": "427dad40-5a1e-d6cd-2ea1-d8916845637e",
+    "website": "21g-716-introduction-to-contemporary-hispanic-literature-spring-2005"
+  },
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "site_uid": "923b488c-c2c3-44e6-9ce0-baa88ad2819b",
+  "site_short_id": "21g.716-spring-2005",
+  "site_url_path": "courses/21g-716-introduction-to-contemporary-hispanic-literature-spring-2005",
+  "title": "Course Metadata"
+}
